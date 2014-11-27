@@ -12,5 +12,5 @@ It is built in Node.Js and Neo4J graph database. To fork and contribute to the s
 
 ###Special Agents Involved###
 
-Special Agent [Paranyushkin](../../agent/paranyushkin)
+Special Agent [Paranyushkin](../../agents/paranyushkin)
 
