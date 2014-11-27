@@ -22,10 +22,10 @@ In the end, Special Agency is an open source way of thinking, a certain methodol
 
 Special Agency functions through the notion of missions. These can solidify into concrete acts, tools, situations that allow that special something of a special agent to come up and express themselves fully.
 
-**Network Thinking App – http://infranodus.com**
+**Network Thinking App – [InfraNodus](/missions/infranodus/)**
 *Helps find new inspiration and connect ideas. Can be used in one's notes, thoughts, Twitter timelines, book and research excerpts and any other disjointed pieces of textual data.*
 
-**The Waiting Room - http://waitingwaiting.com**
+**Constructed Interactions - [The Waiting Room](/missions/waitingroom/)**
 *A shared opportunity for one-on-one interaction.*
 
 **More missions can be found in the "missions" folder.**
