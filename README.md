@@ -1,11 +1,11 @@
 Special Agency
 =============
 
-Everybody is special and everyone is an agent.
+####Everybody is special and everyone is an agent.####
 
 There is even no other choice. One cannot refuse the fact that they are unlike anyone else – this is what's "special". One also cannot refuse the fact that they belong to the universe (or that it belongs to them) – this is the "agency". 
 
-The role of the Special Agency is to act as an interface that offers additional choices not usually visible under the normal circumstances. 
+####The role of the Special Agency is to act as an interface that connects special agents in their speciality.####
 
 It is an open source methodology that involves discipline, time management, organizational management as well as  various practices of mind expansion, such as polysingularity, network analysis, Systema, Noguchi taiso, intuitive approach and many more.
 
@@ -18,21 +18,21 @@ It’s the remainings and artefacts of those obfuscations which are of interest 
 In the end, Special Agency is an open source way of thinking, a certain methodology of proceeding beyond the limits imposed by any external context, authority, market or institution. It is a way of finding oneself from within and allowing it to fully express itself towards the outside in order to live, transform, and evolve.
 
 
-### Missions
+### Special Missions
 
 Special Agency functions through the notion of missions. These can solidify into concrete acts, tools, situations that allow that special something of a special agent to come up and express themselves fully.
 
+**Network Thinking App – http://infranodus.com**
+*Helps find new inspiration and connect ideas. Can be used in one's notes, thoughts, Twitter timelines, book and research excerpts and any other disjointed pieces of textual data.*
+
+**The Waiting Room - http://waitingwaiting.com**
+*A shared opportunity for one-on-one interaction.*
+
+**More missions can be found in the "missions" folder.**
 
 
-### Infrastructure
 
-Special Agency is a way of thinking that provides conceptual infrastructure for decision-making and divinitation. This is implemented through a set of open source tools and procedures, which are designed to help planning, making decisions, and performing acts.
-
-The two pillars of Special Agency are Discipline and Intention. 
-
-
-
-### People
+### Special Agents
 
 Special Agency operates through a loose network of accomplices who can also act on their own. 
 
@@ -40,5 +40,21 @@ One can be alone and still be a special agent for their own special agency, disr
 
 A special agent can also find Accomplices in performing their mission: this will make some things easier.
 
+**A list of Special Agents can be found in the "agents" folder.**
 
-### Practices
+
+
+### Special Practices
+
+**Dynamic Variability**
+*Somacognitive practice of maintaining variability in dynamics for adaptation, evolution, and learning.*
+
+**Divinatorium**
+*Using divinatory practices to build alternative recommender systems.*
+
+**Polysingularity Label - http://polysingularity.com**
+*Releasing the textual and audio-visual material channeling in-tention within variability.
+
+**Project Management – https://projects.zoho.com**
+*Helps organize tasks around deliverables and specific timeframes.*
+
