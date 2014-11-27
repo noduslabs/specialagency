@@ -28,6 +28,9 @@ Special Agency functions through the notion of missions. These can solidify into
 **Constructed Interactions - [The Waiting Room](/missions/waitingroom/)**
 *A shared opportunity for one-on-one interaction.*
 
+**Divinatory Guidance - [Divinatorium](/missions/divinatorium/)**
+*A recommender system based on the best divination practices.*
+
 **More missions can be found in the "missions" folder.**
 
 
