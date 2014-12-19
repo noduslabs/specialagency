@@ -1,0 +1,850 @@
+{
+  "nodes": [
+    {
+      "id": "dc278342-70eb-11e4-9acb-4b286cd03fb7",
+      "label": "bagpipe"
+    },
+    {
+      "id": "7b135561-6a75-11e4-ab15-1f5ffecfce9b",
+      "label": "bangKit"
+    },
+    {
+      "id": "9c72ec61-6a76-11e4-ab15-1f5ffecfce9b",
+      "label": "bangkit"
+    },
+    {
+      "id": "7af25151-e51d-11e3-9940-4d840b2323e2",
+      "label": "bass"
+    },
+    {
+      "id": "ffc61238-e51d-11e3-9940-4d840b2323e2",
+      "label": "beat"
+    },
+    {
+      "id": "37bc5632-2872-11e4-94bf-1750b2e92a70",
+      "label": "boom"
+    },
+    {
+      "id": "df39f731-61f4-11e4-83bf-ad43b7b3dad7",
+      "label": "bumpkit"
+    },
+    {
+      "id": "704d3441-70ef-11e4-9acb-4b286cd03fb7",
+      "label": "centi"
+    },
+    {
+      "id": "60051b76-bfda-11e3-bdbd-476fefd65326",
+      "label": "dreamy"
+    },
+    {
+      "id": "9c72c551-6a76-11e4-ab15-1f5ffecfce9b",
+      "label": "echoBoom"
+    },
+    {
+      "id": "31b5e1d1-61f6-11e4-83bf-ad43b7b3dad7",
+      "label": "echoTom"
+    },
+    {
+      "id": "a31a3cf1-64ed-11e4-aeaa-999ea80af6a9",
+      "label": "footstep"
+    },
+    {
+      "id": "b43017d3-61f5-11e4-83bf-ad43b7b3dad7",
+      "label": "groove"
+    },
+    {
+      "id": "3030e451-70f0-11e4-9acb-4b286cd03fb7",
+      "label": "helium"
+    },
+    {
+      "id": "55a05e30-7908-11e4-b3bc-4baf3d6b10d9",
+      "label": "hexagon"
+    },
+    {
+      "id": "1c2e0954-bfe2-11e3-bdbd-476fefd65326",
+      "label": "high"
+    },
+    {
+      "id": "5a58bb6d-27a1-11e4-94bf-1750b2e92a70",
+      "label": "low"
+    },
+    {
+      "id": "a08d0880-1503-11e4-9955-6fb46bfd0fb6",
+      "label": "mean"
+    },
+    {
+      "id": "21a87e71-70f0-11e4-9acb-4b286cd03fb7",
+      "label": "metalxy"
+    },
+    {
+      "id": "8a5d6a31-70ef-11e4-9acb-4b286cd03fb7",
+      "label": "milli"
+    },
+    {
+      "id": "db174ef1-70ef-11e4-9acb-4b286cd03fb7",
+      "label": "moth"
+    },
+    {
+      "id": "2ce33562-70ef-11e4-9acb-4b286cd03fb7",
+      "label": "nmcannon"
+    },
+    {
+      "id": "dc278347-70eb-11e4-9acb-4b286cd03fb7",
+      "label": "nod3"
+    },
+    {
+      "id": "e5739751-70ef-11e4-9acb-4b286cd03fb7",
+      "label": "oscillator"
+    },
+    {
+      "id": "aefd26c1-61f7-11e4-83bf-ad43b7b3dad7",
+      "label": "pai"
+    },
+    {
+      "id": "35380b91-6a79-11e4-ab15-1f5ffecfce9b",
+      "label": "pizzStr"
+    },
+    {
+      "id": "a7810650-6a7b-11e4-ab15-1f5ffecfce9b",
+      "label": "pizzstr"
+    },
+    {
+      "id": "2ce33561-70ef-11e4-9acb-4b286cd03fb7",
+      "label": "powerb"
+    },
+    {
+      "id": "0d141821-61f5-11e4-83bf-ad43b7b3dad7",
+      "label": "powerkit"
+    },
+    {
+      "id": "c17501b2-1508-11e4-9955-6fb46bfd0fb6",
+      "label": "punchy"
+    },
+    {
+      "id": "06c47dc1-70f0-11e4-9acb-4b286cd03fb7",
+      "label": "sinelead"
+    },
+    {
+      "id": "a780df41-6a7b-11e4-ab15-1f5ffecfce9b",
+      "label": "snapKit"
+    },
+    {
+      "id": "ee0854d1-61f6-11e4-83bf-ad43b7b3dad7",
+      "label": "softBoom"
+    },
+    {
+      "id": "4942dd61-61f8-11e4-83bf-ad43b7b3dad7",
+      "label": "stomp"
+    },
+    {
+      "id": "ee0854d5-61f6-11e4-83bf-ad43b7b3dad7",
+      "label": "string"
+    },
+    {
+      "id": "4dacefc2-1500-11e4-9955-6fb46bfd0fb6",
+      "label": "subdued"
+    },
+    {
+      "id": "6a06f3e1-70f0-11e4-9acb-4b286cd03fb7",
+      "label": "sunspot"
+    }
+  ],
+  "edges": [
+    {
+      "source": "7af25151-e51d-11e3-9940-4d840b2323e2",
+      "target": "60051b76-bfda-11e3-bdbd-476fefd65326",
+      "id": "31b608eb-61f6-11e4-83bf-ad43b7b3dad7",
+      "edge_context": "tenori",
+      "statement_id": "31b5e1d0-61f6-11e4-83bf-ad43b7b3dad7",
+      "weight": "2"
+    },
+    {
+      "source": "31b5e1d1-61f6-11e4-83bf-ad43b7b3dad7",
+      "target": "60051b76-bfda-11e3-bdbd-476fefd65326",
+      "id": "31b608ea-61f6-11e4-83bf-ad43b7b3dad7",
+      "edge_context": "tenori",
+      "statement_id": "31b5e1d0-61f6-11e4-83bf-ad43b7b3dad7",
+      "weight": "1"
+    },
+    {
+      "source": "ffc61238-e51d-11e3-9940-4d840b2323e2",
+      "target": "60051b76-bfda-11e3-bdbd-476fefd65326",
+      "id": "31b608e8-61f6-11e4-83bf-ad43b7b3dad7",
+      "edge_context": "tenori",
+      "statement_id": "31b5e1d0-61f6-11e4-83bf-ad43b7b3dad7",
+      "weight": "3"
+    },
+    {
+      "source": "31b5e1d1-61f6-11e4-83bf-ad43b7b3dad7",
+      "target": "ffc61238-e51d-11e3-9940-4d840b2323e2",
+      "id": "31b608e6-61f6-11e4-83bf-ad43b7b3dad7",
+      "edge_context": "tenori",
+      "statement_id": "31b5e1d0-61f6-11e4-83bf-ad43b7b3dad7",
+      "weight": "2"
+    },
+    {
+      "source": "7af25151-e51d-11e3-9940-4d840b2323e2",
+      "target": "ffc61238-e51d-11e3-9940-4d840b2323e2",
+      "id": "31b608e4-61f6-11e4-83bf-ad43b7b3dad7",
+      "edge_context": "tenori",
+      "statement_id": "31b5e1d0-61f6-11e4-83bf-ad43b7b3dad7",
+      "weight": "3"
+    },
+    {
+      "source": "31b5e1d1-61f6-11e4-83bf-ad43b7b3dad7",
+      "target": "7af25151-e51d-11e3-9940-4d840b2323e2",
+      "id": "31b608e1-61f6-11e4-83bf-ad43b7b3dad7",
+      "edge_context": "tenori",
+      "statement_id": "31b5e1d0-61f6-11e4-83bf-ad43b7b3dad7",
+      "weight": "3"
+    },
+    {
+      "source": "df39f731-61f4-11e4-83bf-ad43b7b3dad7",
+      "target": "4dacefc2-1500-11e4-9955-6fb46bfd0fb6",
+      "id": "f2a96623-61f4-11e4-83bf-ad43b7b3dad7",
+      "edge_context": "tenori",
+      "statement_id": "f2a96620-61f4-11e4-83bf-ad43b7b3dad7",
+      "weight": "3"
+    },
+    {
+      "source": "4dacefc2-1500-11e4-9955-6fb46bfd0fb6",
+      "target": "ffc61238-e51d-11e3-9940-4d840b2323e2",
+      "id": "f2a96626-61f4-11e4-83bf-ad43b7b3dad7",
+      "edge_context": "tenori",
+      "statement_id": "f2a96620-61f4-11e4-83bf-ad43b7b3dad7",
+      "weight": "3"
+    },
+    {
+      "source": "df39f731-61f4-11e4-83bf-ad43b7b3dad7",
+      "target": "ffc61238-e51d-11e3-9940-4d840b2323e2",
+      "id": "f2a96628-61f4-11e4-83bf-ad43b7b3dad7",
+      "edge_context": "tenori",
+      "statement_id": "f2a96620-61f4-11e4-83bf-ad43b7b3dad7",
+      "weight": "2"
+    },
+    {
+      "source": "ffc61238-e51d-11e3-9940-4d840b2323e2",
+      "target": "7af25151-e51d-11e3-9940-4d840b2323e2",
+      "id": "f2a98d31-61f4-11e4-83bf-ad43b7b3dad7",
+      "edge_context": "tenori",
+      "statement_id": "f2a96620-61f4-11e4-83bf-ad43b7b3dad7",
+      "weight": "3"
+    },
+    {
+      "source": "df39f731-61f4-11e4-83bf-ad43b7b3dad7",
+      "target": "7af25151-e51d-11e3-9940-4d840b2323e2",
+      "id": "f2a98d33-61f4-11e4-83bf-ad43b7b3dad7",
+      "edge_context": "tenori",
+      "statement_id": "f2a96620-61f4-11e4-83bf-ad43b7b3dad7",
+      "weight": "1"
+    },
+    {
+      "source": "4dacefc2-1500-11e4-9955-6fb46bfd0fb6",
+      "target": "7af25151-e51d-11e3-9940-4d840b2323e2",
+      "id": "f2a98d34-61f4-11e4-83bf-ad43b7b3dad7",
+      "edge_context": "tenori",
+      "statement_id": "f2a96620-61f4-11e4-83bf-ad43b7b3dad7",
+      "weight": "2"
+    },
+    {
+      "source": "0d141821-61f5-11e4-83bf-ad43b7b3dad7",
+      "target": "ffc61238-e51d-11e3-9940-4d840b2323e2",
+      "id": "0d141823-61f5-11e4-83bf-ad43b7b3dad7",
+      "edge_context": "tenori",
+      "statement_id": "0d141820-61f5-11e4-83bf-ad43b7b3dad7",
+      "weight": "3"
+    },
+    {
+      "source": "0d141821-61f5-11e4-83bf-ad43b7b3dad7",
+      "target": "4dacefc2-1500-11e4-9955-6fb46bfd0fb6",
+      "id": "0d141828-61f5-11e4-83bf-ad43b7b3dad7",
+      "edge_context": "tenori",
+      "statement_id": "0d141820-61f5-11e4-83bf-ad43b7b3dad7",
+      "weight": "2"
+    },
+    {
+      "source": "ffc61238-e51d-11e3-9940-4d840b2323e2",
+      "target": "4dacefc2-1500-11e4-9955-6fb46bfd0fb6",
+      "id": "0d141826-61f5-11e4-83bf-ad43b7b3dad7",
+      "edge_context": "tenori",
+      "statement_id": "0d141820-61f5-11e4-83bf-ad43b7b3dad7",
+      "weight": "3"
+    },
+    {
+      "source": "ee0854d1-61f6-11e4-83bf-ad43b7b3dad7",
+      "target": "ee0854d5-61f6-11e4-83bf-ad43b7b3dad7",
+      "id": "ee087be1-61f6-11e4-83bf-ad43b7b3dad7",
+      "edge_context": "tenori",
+      "statement_id": "ee0854d0-61f6-11e4-83bf-ad43b7b3dad7",
+      "weight": "2"
+    },
+    {
+      "source": "ffc61238-e51d-11e3-9940-4d840b2323e2",
+      "target": "ee0854d5-61f6-11e4-83bf-ad43b7b3dad7",
+      "id": "ee0854d6-61f6-11e4-83bf-ad43b7b3dad7",
+      "edge_context": "tenori",
+      "statement_id": "ee0854d0-61f6-11e4-83bf-ad43b7b3dad7",
+      "weight": "3"
+    },
+    {
+      "source": "ee0854d1-61f6-11e4-83bf-ad43b7b3dad7",
+      "target": "ffc61238-e51d-11e3-9940-4d840b2323e2",
+      "id": "ee0854d3-61f6-11e4-83bf-ad43b7b3dad7",
+      "edge_context": "tenori",
+      "statement_id": "ee0854d0-61f6-11e4-83bf-ad43b7b3dad7",
+      "weight": "3"
+    },
+    {
+      "source": "0d141821-61f5-11e4-83bf-ad43b7b3dad7",
+      "target": "df39f731-61f4-11e4-83bf-ad43b7b3dad7",
+      "id": "b43017d1-61f5-11e4-83bf-ad43b7b3dad7",
+      "edge_context": "tenori",
+      "statement_id": "b42ff0c0-61f5-11e4-83bf-ad43b7b3dad7",
+      "weight": "3"
+    },
+    {
+      "source": "df39f731-61f4-11e4-83bf-ad43b7b3dad7",
+      "target": "b43017d3-61f5-11e4-83bf-ad43b7b3dad7",
+      "id": "b43017d4-61f5-11e4-83bf-ad43b7b3dad7",
+      "edge_context": "tenori",
+      "statement_id": "b42ff0c0-61f5-11e4-83bf-ad43b7b3dad7",
+      "weight": "3"
+    },
+    {
+      "source": "0d141821-61f5-11e4-83bf-ad43b7b3dad7",
+      "target": "b43017d3-61f5-11e4-83bf-ad43b7b3dad7",
+      "id": "b43017d6-61f5-11e4-83bf-ad43b7b3dad7",
+      "edge_context": "tenori",
+      "statement_id": "b42ff0c0-61f5-11e4-83bf-ad43b7b3dad7",
+      "weight": "2"
+    },
+    {
+      "source": "a31a3cf1-64ed-11e4-aeaa-999ea80af6a9",
+      "target": "7b135561-6a75-11e4-ab15-1f5ffecfce9b",
+      "id": "4c146e13-6a76-11e4-ab15-1f5ffecfce9b",
+      "edge_context": "tenori",
+      "statement_id": "4c146e10-6a76-11e4-ab15-1f5ffecfce9b",
+      "weight": "3"
+    },
+    {
+      "source": "37bc5632-2872-11e4-94bf-1750b2e92a70",
+      "target": "7af25151-e51d-11e3-9940-4d840b2323e2",
+      "id": "385c40e1-6a77-11e4-ab15-1f5ffecfce9b",
+      "edge_context": "tenori",
+      "statement_id": "385c19d0-6a77-11e4-ab15-1f5ffecfce9b",
+      "weight": "3"
+    },
+    {
+      "source": "37bc5632-2872-11e4-94bf-1750b2e92a70",
+      "target": "a08d0880-1503-11e4-9955-6fb46bfd0fb6",
+      "id": "385c40ea-6a77-11e4-ab15-1f5ffecfce9b",
+      "edge_context": "tenori",
+      "statement_id": "385c19d0-6a77-11e4-ab15-1f5ffecfce9b",
+      "weight": "1"
+    },
+    {
+      "source": "5a58bb6d-27a1-11e4-94bf-1750b2e92a70",
+      "target": "a08d0880-1503-11e4-9955-6fb46bfd0fb6",
+      "id": "385c40e8-6a77-11e4-ab15-1f5ffecfce9b",
+      "edge_context": "tenori",
+      "statement_id": "385c19d0-6a77-11e4-ab15-1f5ffecfce9b",
+      "weight": "3"
+    },
+    {
+      "source": "7af25151-e51d-11e3-9940-4d840b2323e2",
+      "target": "a08d0880-1503-11e4-9955-6fb46bfd0fb6",
+      "id": "385c40eb-6a77-11e4-ab15-1f5ffecfce9b",
+      "edge_context": "tenori",
+      "statement_id": "385c19d0-6a77-11e4-ab15-1f5ffecfce9b",
+      "weight": "2"
+    },
+    {
+      "source": "37bc5632-2872-11e4-94bf-1750b2e92a70",
+      "target": "5a58bb6d-27a1-11e4-94bf-1750b2e92a70",
+      "id": "385c40e6-6a77-11e4-ab15-1f5ffecfce9b",
+      "edge_context": "tenori",
+      "statement_id": "385c19d0-6a77-11e4-ab15-1f5ffecfce9b",
+      "weight": "2"
+    },
+    {
+      "source": "7af25151-e51d-11e3-9940-4d840b2323e2",
+      "target": "5a58bb6d-27a1-11e4-94bf-1750b2e92a70",
+      "id": "385c40e4-6a77-11e4-ab15-1f5ffecfce9b",
+      "edge_context": "tenori",
+      "statement_id": "385c19d0-6a77-11e4-ab15-1f5ffecfce9b",
+      "weight": "3"
+    },
+    {
+      "source": "a780df41-6a7b-11e4-ab15-1f5ffecfce9b",
+      "target": "a7810650-6a7b-11e4-ab15-1f5ffecfce9b",
+      "id": "a7810651-6a7b-11e4-ab15-1f5ffecfce9b",
+      "edge_context": "tenori",
+      "statement_id": "a780df40-6a7b-11e4-ab15-1f5ffecfce9b",
+      "weight": "3"
+    },
+    {
+      "source": "a7810650-6a7b-11e4-ab15-1f5ffecfce9b",
+      "target": "4942dd61-61f8-11e4-83bf-ad43b7b3dad7",
+      "id": "a7810654-6a7b-11e4-ab15-1f5ffecfce9b",
+      "edge_context": "tenori",
+      "statement_id": "a780df40-6a7b-11e4-ab15-1f5ffecfce9b",
+      "weight": "3"
+    },
+    {
+      "source": "a780df41-6a7b-11e4-ab15-1f5ffecfce9b",
+      "target": "4942dd61-61f8-11e4-83bf-ad43b7b3dad7",
+      "id": "a7810656-6a7b-11e4-ab15-1f5ffecfce9b",
+      "edge_context": "tenori",
+      "statement_id": "a780df40-6a7b-11e4-ab15-1f5ffecfce9b",
+      "weight": "2"
+    },
+    {
+      "source": "9c72c551-6a76-11e4-ab15-1f5ffecfce9b",
+      "target": "a31a3cf1-64ed-11e4-aeaa-999ea80af6a9",
+      "id": "9c72c553-6a76-11e4-ab15-1f5ffecfce9b",
+      "edge_context": "tenori",
+      "statement_id": "9c72c550-6a76-11e4-ab15-1f5ffecfce9b",
+      "weight": "3"
+    },
+    {
+      "source": "9c72c551-6a76-11e4-ab15-1f5ffecfce9b",
+      "target": "9c72ec61-6a76-11e4-ab15-1f5ffecfce9b",
+      "id": "9c72ec64-6a76-11e4-ab15-1f5ffecfce9b",
+      "edge_context": "tenori",
+      "statement_id": "9c72c550-6a76-11e4-ab15-1f5ffecfce9b",
+      "weight": "2"
+    },
+    {
+      "source": "a31a3cf1-64ed-11e4-aeaa-999ea80af6a9",
+      "target": "9c72ec61-6a76-11e4-ab15-1f5ffecfce9b",
+      "id": "9c72ec62-6a76-11e4-ab15-1f5ffecfce9b",
+      "edge_context": "tenori",
+      "statement_id": "9c72c550-6a76-11e4-ab15-1f5ffecfce9b",
+      "weight": "3"
+    },
+    {
+      "source": "37bc5632-2872-11e4-94bf-1750b2e92a70",
+      "target": "a31a3cf1-64ed-11e4-aeaa-999ea80af6a9",
+      "id": "fd4a2ee1-6a76-11e4-ab15-1f5ffecfce9b",
+      "edge_context": "tenori",
+      "statement_id": "fd4a07d0-6a76-11e4-ab15-1f5ffecfce9b",
+      "weight": "2"
+    },
+    {
+      "source": "9c72c551-6a76-11e4-ab15-1f5ffecfce9b",
+      "target": "a31a3cf1-64ed-11e4-aeaa-999ea80af6a9",
+      "id": "fd4a07d6-6a76-11e4-ab15-1f5ffecfce9b",
+      "edge_context": "tenori",
+      "statement_id": "fd4a07d0-6a76-11e4-ab15-1f5ffecfce9b",
+      "weight": "3"
+    },
+    {
+      "source": "37bc5632-2872-11e4-94bf-1750b2e92a70",
+      "target": "9c72c551-6a76-11e4-ab15-1f5ffecfce9b",
+      "id": "fd4a07d3-6a76-11e4-ab15-1f5ffecfce9b",
+      "edge_context": "tenori",
+      "statement_id": "fd4a07d0-6a76-11e4-ab15-1f5ffecfce9b",
+      "weight": "3"
+    },
+    {
+      "source": "35380b91-6a79-11e4-ab15-1f5ffecfce9b",
+      "target": "4942dd61-61f8-11e4-83bf-ad43b7b3dad7",
+      "id": "35380b93-6a79-11e4-ab15-1f5ffecfce9b",
+      "edge_context": "tenori",
+      "statement_id": "35380b90-6a79-11e4-ab15-1f5ffecfce9b",
+      "weight": "3"
+    },
+    {
+      "source": "ee0854d5-61f6-11e4-83bf-ad43b7b3dad7",
+      "target": "a08d0880-1503-11e4-9955-6fb46bfd0fb6",
+      "id": "8a5db857-70ef-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "8a5d6a30-70ef-11e4-9acb-4b286cd03fb7",
+      "weight": "2"
+    },
+    {
+      "source": "2ce33562-70ef-11e4-9acb-4b286cd03fb7",
+      "target": "a08d0880-1503-11e4-9955-6fb46bfd0fb6",
+      "id": "8a5db856-70ef-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "8a5d6a30-70ef-11e4-9acb-4b286cd03fb7",
+      "weight": "1"
+    },
+    {
+      "source": "7af25151-e51d-11e3-9940-4d840b2323e2",
+      "target": "c17501b2-1508-11e4-9955-6fb46bfd0fb6",
+      "id": "8a5ddf62-70ef-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "8a5d6a30-70ef-11e4-9acb-4b286cd03fb7",
+      "weight": "2"
+    },
+    {
+      "source": "ee0854d5-61f6-11e4-83bf-ad43b7b3dad7",
+      "target": "c17501b2-1508-11e4-9955-6fb46bfd0fb6",
+      "id": "8a5ddf61-70ef-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "8a5d6a30-70ef-11e4-9acb-4b286cd03fb7",
+      "weight": "1"
+    },
+    {
+      "source": "a08d0880-1503-11e4-9955-6fb46bfd0fb6",
+      "target": "c17501b2-1508-11e4-9955-6fb46bfd0fb6",
+      "id": "8a5db859-70ef-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "8a5d6a30-70ef-11e4-9acb-4b286cd03fb7",
+      "weight": "3"
+    },
+    {
+      "source": "2ce33562-70ef-11e4-9acb-4b286cd03fb7",
+      "target": "7af25151-e51d-11e3-9940-4d840b2323e2",
+      "id": "8a5db852-70ef-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "8a5d6a30-70ef-11e4-9acb-4b286cd03fb7",
+      "weight": "2"
+    },
+    {
+      "source": "2ce33561-70ef-11e4-9acb-4b286cd03fb7",
+      "target": "7af25151-e51d-11e3-9940-4d840b2323e2",
+      "id": "8a5db851-70ef-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "8a5d6a30-70ef-11e4-9acb-4b286cd03fb7",
+      "weight": "1"
+    },
+    {
+      "source": "ee0854d5-61f6-11e4-83bf-ad43b7b3dad7",
+      "target": "7af25151-e51d-11e3-9940-4d840b2323e2",
+      "id": "8a5d9148-70ef-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "8a5d6a30-70ef-11e4-9acb-4b286cd03fb7",
+      "weight": "3"
+    },
+    {
+      "source": "7af25151-e51d-11e3-9940-4d840b2323e2",
+      "target": "a08d0880-1503-11e4-9955-6fb46bfd0fb6",
+      "id": "8a5db854-70ef-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "8a5d6a30-70ef-11e4-9acb-4b286cd03fb7",
+      "weight": "3"
+    },
+    {
+      "source": "2ce33562-70ef-11e4-9acb-4b286cd03fb7",
+      "target": "ee0854d5-61f6-11e4-83bf-ad43b7b3dad7",
+      "id": "8a5d9143-70ef-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "8a5d6a30-70ef-11e4-9acb-4b286cd03fb7",
+      "weight": "3"
+    },
+    {
+      "source": "8a5d6a31-70ef-11e4-9acb-4b286cd03fb7",
+      "target": "ee0854d5-61f6-11e4-83bf-ad43b7b3dad7",
+      "id": "8a5d9145-70ef-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "8a5d6a30-70ef-11e4-9acb-4b286cd03fb7",
+      "weight": "1"
+    },
+    {
+      "source": "2ce33561-70ef-11e4-9acb-4b286cd03fb7",
+      "target": "ee0854d5-61f6-11e4-83bf-ad43b7b3dad7",
+      "id": "8a5d9146-70ef-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "8a5d6a30-70ef-11e4-9acb-4b286cd03fb7",
+      "weight": "2"
+    },
+    {
+      "source": "8a5d6a31-70ef-11e4-9acb-4b286cd03fb7",
+      "target": "2ce33561-70ef-11e4-9acb-4b286cd03fb7",
+      "id": "8a5d6a33-70ef-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "8a5d6a30-70ef-11e4-9acb-4b286cd03fb7",
+      "weight": "3"
+    },
+    {
+      "source": "2ce33561-70ef-11e4-9acb-4b286cd03fb7",
+      "target": "2ce33562-70ef-11e4-9acb-4b286cd03fb7",
+      "id": "8a5d6a36-70ef-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "8a5d6a30-70ef-11e4-9acb-4b286cd03fb7",
+      "weight": "3"
+    },
+    {
+      "source": "8a5d6a31-70ef-11e4-9acb-4b286cd03fb7",
+      "target": "2ce33562-70ef-11e4-9acb-4b286cd03fb7",
+      "id": "8a5d9141-70ef-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "8a5d6a30-70ef-11e4-9acb-4b286cd03fb7",
+      "weight": "2"
+    },
+    {
+      "source": "37bc5632-2872-11e4-94bf-1750b2e92a70",
+      "target": "dc278347-70eb-11e4-9acb-4b286cd03fb7",
+      "id": "0e53dff9-70ef-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "0e53b8e0-70ef-11e4-9acb-4b286cd03fb7",
+      "weight": "2"
+    },
+    {
+      "source": "ee0854d1-61f6-11e4-83bf-ad43b7b3dad7",
+      "target": "dc278347-70eb-11e4-9acb-4b286cd03fb7",
+      "id": "0e53dff8-70ef-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "0e53b8e0-70ef-11e4-9acb-4b286cd03fb7",
+      "weight": "1"
+    },
+    {
+      "source": "4942dd61-61f8-11e4-83bf-ad43b7b3dad7",
+      "target": "ee0854d1-61f6-11e4-83bf-ad43b7b3dad7",
+      "id": "0e53b8e3-70ef-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "0e53b8e0-70ef-11e4-9acb-4b286cd03fb7",
+      "weight": "3"
+    },
+    {
+      "source": "ee0854d1-61f6-11e4-83bf-ad43b7b3dad7",
+      "target": "37bc5632-2872-11e4-94bf-1750b2e92a70",
+      "id": "0e53b8e6-70ef-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "0e53b8e0-70ef-11e4-9acb-4b286cd03fb7",
+      "weight": "3"
+    },
+    {
+      "source": "4942dd61-61f8-11e4-83bf-ad43b7b3dad7",
+      "target": "37bc5632-2872-11e4-94bf-1750b2e92a70",
+      "id": "0e53b8e8-70ef-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "0e53b8e0-70ef-11e4-9acb-4b286cd03fb7",
+      "weight": "2"
+    },
+    {
+      "source": "4942dd61-61f8-11e4-83bf-ad43b7b3dad7",
+      "target": "dc278342-70eb-11e4-9acb-4b286cd03fb7",
+      "id": "0e53dff3-70ef-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "0e53b8e0-70ef-11e4-9acb-4b286cd03fb7",
+      "weight": "1"
+    },
+    {
+      "source": "ee0854d1-61f6-11e4-83bf-ad43b7b3dad7",
+      "target": "dc278342-70eb-11e4-9acb-4b286cd03fb7",
+      "id": "0e53dff4-70ef-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "0e53b8e0-70ef-11e4-9acb-4b286cd03fb7",
+      "weight": "2"
+    },
+    {
+      "source": "37bc5632-2872-11e4-94bf-1750b2e92a70",
+      "target": "dc278342-70eb-11e4-9acb-4b286cd03fb7",
+      "id": "0e53dff1-70ef-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "0e53b8e0-70ef-11e4-9acb-4b286cd03fb7",
+      "weight": "3"
+    },
+    {
+      "source": "dc278342-70eb-11e4-9acb-4b286cd03fb7",
+      "target": "dc278347-70eb-11e4-9acb-4b286cd03fb7",
+      "id": "0e53dff6-70ef-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "0e53b8e0-70ef-11e4-9acb-4b286cd03fb7",
+      "weight": "3"
+    },
+    {
+      "source": "704d3441-70ef-11e4-9acb-4b286cd03fb7",
+      "target": "4dacefc2-1500-11e4-9955-6fb46bfd0fb6",
+      "id": "704d5b51-70ef-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "704d3440-70ef-11e4-9acb-4b286cd03fb7",
+      "weight": "3"
+    },
+    {
+      "source": "704d3441-70ef-11e4-9acb-4b286cd03fb7",
+      "target": "4942dd61-61f8-11e4-83bf-ad43b7b3dad7",
+      "id": "704d8263-70ef-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "704d3440-70ef-11e4-9acb-4b286cd03fb7",
+      "weight": "1"
+    },
+    {
+      "source": "4dacefc2-1500-11e4-9955-6fb46bfd0fb6",
+      "target": "4942dd61-61f8-11e4-83bf-ad43b7b3dad7",
+      "id": "704d8264-70ef-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "704d3440-70ef-11e4-9acb-4b286cd03fb7",
+      "weight": "2"
+    },
+    {
+      "source": "7af25151-e51d-11e3-9940-4d840b2323e2",
+      "target": "4942dd61-61f8-11e4-83bf-ad43b7b3dad7",
+      "id": "704d8261-70ef-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "704d3440-70ef-11e4-9acb-4b286cd03fb7",
+      "weight": "3"
+    },
+    {
+      "source": "4dacefc2-1500-11e4-9955-6fb46bfd0fb6",
+      "target": "7af25151-e51d-11e3-9940-4d840b2323e2",
+      "id": "704d5b54-70ef-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "704d3440-70ef-11e4-9acb-4b286cd03fb7",
+      "weight": "3"
+    },
+    {
+      "source": "704d3441-70ef-11e4-9acb-4b286cd03fb7",
+      "target": "7af25151-e51d-11e3-9940-4d840b2323e2",
+      "id": "704d5b56-70ef-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "704d3440-70ef-11e4-9acb-4b286cd03fb7",
+      "weight": "2"
+    },
+    {
+      "source": "2ce33561-70ef-11e4-9acb-4b286cd03fb7",
+      "target": "4942dd61-61f8-11e4-83bf-ad43b7b3dad7",
+      "id": "321466d3-70ef-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "32143fc0-70ef-11e4-9acb-4b286cd03fb7",
+      "weight": "2"
+    },
+    {
+      "source": "2ce33562-70ef-11e4-9acb-4b286cd03fb7",
+      "target": "4942dd61-61f8-11e4-83bf-ad43b7b3dad7",
+      "id": "321466d1-70ef-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "32143fc0-70ef-11e4-9acb-4b286cd03fb7",
+      "weight": "3"
+    },
+    {
+      "source": "2ce33561-70ef-11e4-9acb-4b286cd03fb7",
+      "target": "2ce33562-70ef-11e4-9acb-4b286cd03fb7",
+      "id": "32143fc3-70ef-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "32143fc0-70ef-11e4-9acb-4b286cd03fb7",
+      "weight": "3"
+    },
+    {
+      "source": "db174ef1-70ef-11e4-9acb-4b286cd03fb7",
+      "target": "4dacefc2-1500-11e4-9955-6fb46bfd0fb6",
+      "id": "db174ef3-70ef-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "db174ef0-70ef-11e4-9acb-4b286cd03fb7",
+      "weight": "3"
+    },
+    {
+      "source": "e5739751-70ef-11e4-9acb-4b286cd03fb7",
+      "target": "8a5d6a31-70ef-11e4-9acb-4b286cd03fb7",
+      "id": "e573be61-70ef-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "e5739750-70ef-11e4-9acb-4b286cd03fb7",
+      "weight": "3"
+    },
+    {
+      "source": "06c47dc1-70f0-11e4-9acb-4b286cd03fb7",
+      "target": "db174ef1-70ef-11e4-9acb-4b286cd03fb7",
+      "id": "06c47dc3-70f0-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "06c47dc0-70f0-11e4-9acb-4b286cd03fb7",
+      "weight": "3"
+    },
+    {
+      "source": "5a58bb6d-27a1-11e4-94bf-1750b2e92a70",
+      "target": "7af25151-e51d-11e3-9940-4d840b2323e2",
+      "id": "3030e456-70f0-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "3030e450-70f0-11e4-9acb-4b286cd03fb7",
+      "weight": "3"
+    },
+    {
+      "source": "3030e451-70f0-11e4-9acb-4b286cd03fb7",
+      "target": "5a58bb6d-27a1-11e4-94bf-1750b2e92a70",
+      "id": "3030e453-70f0-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "3030e450-70f0-11e4-9acb-4b286cd03fb7",
+      "weight": "3"
+    },
+    {
+      "source": "7af25151-e51d-11e3-9940-4d840b2323e2",
+      "target": "ee0854d5-61f6-11e4-83bf-ad43b7b3dad7",
+      "id": "3030e45a-70f0-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "3030e450-70f0-11e4-9acb-4b286cd03fb7",
+      "weight": "3"
+    },
+    {
+      "source": "3030e451-70f0-11e4-9acb-4b286cd03fb7",
+      "target": "ee0854d5-61f6-11e4-83bf-ad43b7b3dad7",
+      "id": "3030e45c-70f0-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "3030e450-70f0-11e4-9acb-4b286cd03fb7",
+      "weight": "1"
+    },
+    {
+      "source": "5a58bb6d-27a1-11e4-94bf-1750b2e92a70",
+      "target": "ee0854d5-61f6-11e4-83bf-ad43b7b3dad7",
+      "id": "3030e45d-70f0-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "3030e450-70f0-11e4-9acb-4b286cd03fb7",
+      "weight": "2"
+    },
+    {
+      "source": "3030e451-70f0-11e4-9acb-4b286cd03fb7",
+      "target": "7af25151-e51d-11e3-9940-4d840b2323e2",
+      "id": "3030e458-70f0-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "3030e450-70f0-11e4-9acb-4b286cd03fb7",
+      "weight": "2"
+    },
+    {
+      "source": "21a87e71-70f0-11e4-9acb-4b286cd03fb7",
+      "target": "ee0854d5-61f6-11e4-83bf-ad43b7b3dad7",
+      "id": "21a87e78-70f0-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "21a87e70-70f0-11e4-9acb-4b286cd03fb7",
+      "weight": "2"
+    },
+    {
+      "source": "1c2e0954-bfe2-11e3-bdbd-476fefd65326",
+      "target": "ee0854d5-61f6-11e4-83bf-ad43b7b3dad7",
+      "id": "21a87e76-70f0-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "21a87e70-70f0-11e4-9acb-4b286cd03fb7",
+      "weight": "3"
+    },
+    {
+      "source": "21a87e71-70f0-11e4-9acb-4b286cd03fb7",
+      "target": "1c2e0954-bfe2-11e3-bdbd-476fefd65326",
+      "id": "21a87e73-70f0-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "21a87e70-70f0-11e4-9acb-4b286cd03fb7",
+      "weight": "3"
+    },
+    {
+      "source": "aefd26c1-61f7-11e4-83bf-ad43b7b3dad7",
+      "target": "06c47dc1-70f0-11e4-9acb-4b286cd03fb7",
+      "id": "43ab9de3-70f0-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "43ab9de0-70f0-11e4-9acb-4b286cd03fb7",
+      "weight": "3"
+    },
+    {
+      "source": "6a06f3e1-70f0-11e4-9acb-4b286cd03fb7",
+      "target": "21a87e71-70f0-11e4-9acb-4b286cd03fb7",
+      "id": "6a06f3e3-70f0-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "6a06f3e0-70f0-11e4-9acb-4b286cd03fb7",
+      "weight": "3"
+    },
+    {
+      "source": "aefd26c1-61f7-11e4-83bf-ad43b7b3dad7",
+      "target": "ee0854d5-61f6-11e4-83bf-ad43b7b3dad7",
+      "id": "dcfc7183-71d2-11e4-9acb-4b286cd03fb7",
+      "edge_context": "tenori",
+      "statement_id": "dcfc7180-71d2-11e4-9acb-4b286cd03fb7",
+      "weight": "3"
+    },
+    {
+      "source": "55a05e30-7908-11e4-b3bc-4baf3d6b10d9",
+      "target": "4942dd61-61f8-11e4-83bf-ad43b7b3dad7",
+      "id": "5aaa7fa3-7908-11e4-b3bc-4baf3d6b10d9",
+      "edge_context": "tenori",
+      "statement_id": "5aaa7fa0-7908-11e4-b3bc-4baf3d6b10d9",
+      "weight": "3"
+    }
+  ]
+}
