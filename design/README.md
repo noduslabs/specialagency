@@ -43,8 +43,16 @@ There will be 4 categories of posts:
 
 - Agencies
 
-- Practicecs
+- Practices
 
+There may be more categories added later. The names of categories may change.
+
+Every post in every category may be connected to another post in another category using Posts 2 Posts WP plugin - https://github.com/scribu/wp-posts-to-posts.
+
+A modification of this plugin is required to make it possible to add a description of the connection, which could then be shown to the user if the setting to show the types of connections is switched on (the setting to show/hide connection description should be added into plugin).
+(see design/agency-post-view.psd).
+
+If the post has a text inside, it's shown under the header of the post, above the connections list. If not – nothing is shown (see design/agency-post-view.psd).
 
 Themes should be responsive - that is, adjust to the width. However, the left and top margins are fixed as in design. There should always be the same distance to the right side of screen also if it's too narrow.
 
