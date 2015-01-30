@@ -11,15 +11,6 @@ More info and work on http://noduslabs.com
 
 ###Special Agents Collaborators###
 
-[Dmitry Paranyushkin]
-
-[Dor Garbash]
-
-[Alexis Jacomy]
-
-[Colin Johnco]
-
-
 [Dmitry Paranyushkin](http://deemeetree.com)
 
 [Dor Garbash](http://rhizi.org)
