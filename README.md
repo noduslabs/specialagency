@@ -1,15 +1,13 @@
 Special Agency
 =============
 
-If you are here, you probably want to know more about Special Agency or you found your name here.
-
 ####Everybody is special and everyone is an agent.####
-
-So even if you don't yet know it, you are a part of a Special Agency. Any Special Agency.
 
 Every human being is special even if just because they are unlike anyone else – hence, the "special".
 
 Every human being acts in the world – hence, the "agency".
+
+So even if you don't yet know it, you are a part of a Special Agency. Any Special Agency.
 
 ####The role of the Special Agency is to act as an interface that helps link Special Agents in their speciality.####
 
@@ -23,5 +21,16 @@ It’s the remainings and artefacts of those obfuscations which are of interest 
 
 This description in itself can be modified and forked (transformed into something else) but anybody.
 
+####Disclaimer and License
+
+This is an open-source project licensed under Public Domain, which means anyone can copy it, modify it, appropriate it, and make something else with it.
+
+If you found your name in the list of the Special Agents and you did not add it, then somebody else did.
+
+In most cases that means that somebody finds you special and wants to connect you to other people, agencies, practices and projects that are special.
+
+If you don't agree with that, feel free to remove your name. This is an open repository, so you can just send a so-called "push" request with the changes and it will be automatically updated.
+
+In case you're not familiar with technicalities of open-source programming, just send an email to remove@specialagency.me and we will ask some other Special Agent to do it for you.
 
 
