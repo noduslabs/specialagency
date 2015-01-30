@@ -1,4 +1,4 @@
-Special Agency
+Special Agency - An Open Source Organizational Protocol
 =============
 
 ####Everybody is special and everyone is an agent.####
