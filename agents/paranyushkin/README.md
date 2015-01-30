@@ -6,7 +6,7 @@ Special Agent Dmitry Paranyushkin
 
 ##Special Agencies
 
-[Nodus Labs](../agencies/noduslabs)
+[Nodus Labs](../../../agencies/noduslabs)
 [Polysingularity](../agencies/polysingularity)
 [Way to Russia](../agencies/waytorussia)
 [Love Fabrik](../agencies/lovefabrik)

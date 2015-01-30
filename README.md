@@ -20,5 +20,4 @@ It’s the remainings and artefacts of those obfuscations which are of interest 
 This description in itself can be modified and forked (transformed into something else) but anybody.
 
 
-#Public Domain License
 
