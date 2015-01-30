@@ -1,4 +1,4 @@
-Special Agency Nodus Labs
+Special Agency Polysingularity
 =============
 
 `#education #performance #video #research`
