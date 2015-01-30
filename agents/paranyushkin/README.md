@@ -6,19 +6,19 @@ Special Agent Dmitry Paranyushkin
 
 ##Special Agencies
 
-* [Nodus Labs](../../../../agencies/noduslabs)
-* [Polysingularity](../../../../agencies/polysingularity)
-* [Way to Russia](../../../../agencies/waytorussia)
-* [Love Fabrik](../../../../agencies/lovefabrik)
-* [Paragullo](../../../../agencies/paragullo)
+* [Nodus Labs](../../../../tree/master/agencies/noduslabs)
+* [Polysingularity](../../../../tree/master/agencies/polysingularity)
+* [Way to Russia](../../../../tree/master/agencies/waytorussia)
+* [Love Fabrik](../../../../tree/master/agencies/lovefabrik)
+* [Paragullo](../../../../tree/master/agencies/paragullo)
 
 
 ##Special Projects
 
-* [3am](../../../../projects/3am)
-* [Divinatorium](../../../../projects/divinatorium)
-* [Infranodus](../../../../projects/infranodus)
-* [Local Prophets](../../../../projects/localprophets)
+* [3am](../../../../tree/master/projects/3am)
+* [Divinatorium](../../../../tree/master/projects/divinatorium)
+* [Infranodus](../../../../tree/master/projects/infranodus)
+* [Local Prophets](../../../../tree/master/projects/localprophets)
 
 
 ##External
