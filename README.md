@@ -1,6 +1,8 @@
 Special Agency
 =============
 
+If you are here, you probably want to know more about Special Agency or you found your name here.
+
 ####Everybody is special and everyone is an agent.####
 
 Every human being is special even if just because they unlike anyone else – hence, the "special".
