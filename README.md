@@ -7,7 +7,7 @@ If you are here, you probably want to know more about Special Agency or you foun
 
 So even if you don't yet know it, you are a part of a Special Agency. Any Special Agency.
 
-Every human being is special even if just because they unlike anyone else – hence, the "special".
+Every human being is special even if just because they are unlike anyone else – hence, the "special".
 
 Every human being acts in the world – hence, the "agency".
 
