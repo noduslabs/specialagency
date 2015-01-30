@@ -21,7 +21,8 @@ It’s the remainings and artefacts of those obfuscations which are of interest 
 
 This description in itself can be modified and forked (transformed into something else) but anybody.
 
-####Disclaimer and License
+
+###Disclaimer and License
 
 This is an open-source project licensed under Public Domain, which means anyone can copy it, modify it, appropriate it, and make something else with it.
 
