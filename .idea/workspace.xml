@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e8c4f06-faa5-4dd0-b27f-5b7bc568a930" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/special agencies/nodus labs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="specialagency.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="3e8c4f06-faa5-4dd0-b27f-5b7bc568a930" time="1422583275008" ignored="false" />
     <file path="/README.md" changelist="3e8c4f06-faa5-4dd0-b27f-5b7bc568a930" time="1422585747266" ignored="false" />
+    <file path="/.gitignore" changelist="3e8c4f06-faa5-4dd0-b27f-5b7bc568a930" time="1422585871683" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,10 +38,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/special agencies/nodus labs/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="16" selection-start="507" selection-end="507" vertical-scroll-proportion="0.32947975">
+            <state line="19" column="16" selection-start="507" selection-end="507" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -82,7 +92,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/people/README.md" />
         <option value="$PROJECT_DIR$/agents/README.md" />
         <option value="$PROJECT_DIR$/agents/deemeetree/README.md" />
         <option value="$PROJECT_DIR$/agents/alys/README.md" />
@@ -98,6 +107,7 @@
         <option value="$PROJECT_DIR$/design/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/special agencies/nodus labs/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -295,13 +305,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="13" selection-start="1186" selection-end="1186" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/z/design/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="179" selection-start="0" selection-end="6198" vertical-scroll-proportion="0.0">
@@ -388,7 +391,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/special agencies/nodus labs/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="16" selection-start="507" selection-end="507" vertical-scroll-proportion="0.32947975">
+        <state line="19" column="16" selection-start="507" selection-end="507" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
