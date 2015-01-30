@@ -1,15 +1,17 @@
-Special Agency Way to Russia
+Special Agency Nodus Labs
 =============
 
-`#travel #writing #petropolitics #hypercamouflage #sociology`
+`#education #performance #video #research`
 
 
 ##Special Agents
 
 * [Dmitry Paranyushkin](../../../../tree/master/agents/paranyushkin)
 * [Maria Mushtrieva](../../../../tree/master/agents/mushtrieva)
+* [Diego Agullo](../../../../tree/master/agents/agullo)
 
 
 ##External
 
-* http://waytorussia.net
+* http://polysingularity.com
+

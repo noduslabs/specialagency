@@ -1,21 +1,18 @@
 Special Agency Nodus Labs
 =============
 
-####Exploring Society and Cognition through the Framework of Network Science####
+`#education #research #networks #consulting`
 
-Nodus Labs is a research lab set up in 2010 as an exploratorium for network thinking.
 
-We perform research, organize workshops, talks and special events to emphasize singularities, multiplicities, and the dynamics between and within.
+##Special Agents
 
-More info and work on http://noduslabs.com
+* [Dmitry Paranyushkin](../../../../tree/master/agents/paranyushkin)
+* [Colin Johnco](../../../../tree/master/agents/johnco)
+* [Dor Garbash](http://rhizi.org)
+* [Alexis Jacomy](http://jcml.io)
 
-###Special Agents Collaborators###
 
-[Dmitry Paranyushkin](http://deemeetree.com)
+##External
 
-[Dor Garbash](http://rhizi.org)
-
-[Alexis Jacomy](http://jcml.io)
-
-[Colin Johnco](http://colinjohnco.com)
+* http://noduslabs.com
 
