@@ -20,11 +20,11 @@ More info and work on http://noduslabs.com
 [Colin Johnco]
 
 
-[Dmitry Paranyushkin]:(http://deemeetree.com)
+[Dmitry Paranyushkin](http://deemeetree.com)
 
-[Dor Garbash]:(http://rhizi.org)
+[Dor Garbash](http://rhizi.org)
 
-[Alexis Jacomy]:(http://jcml.io)
+[Alexis Jacomy](http://jcml.io)
 
-[Alexis Jacomy]:(http://colinjohnco.com)
+[Colin Johnco](http://colinjohnco.com)
 
